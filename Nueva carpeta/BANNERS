@@ -1,0 +1,47 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+  <title>NIKE</title>
+ <style type="text/css">
+  
+    .one {   
+      color: midnightblue;
+      margin:20px; 
+      border:10px;
+      background:#f8bbd0; 
+      font-size:90px ;
+      font-family:time new roman;
+    }
+
+    .one{ 
+      margin: auto;
+      width: 900px;
+      height: 150px;
+      text-align: center;
+      
+    }
+
+    
+
+  </style>
+</head>
+<body bgcolor="#9fa7d8">
+  <br>
+  <h1 class="one">NIKE</h1>
+</br>
+  <div id="one">
+  </div>
+
+  <br>
+    <center>
+      <img src="banner de publicidad.GIF" height="350px" width="600px">
+    </center>
+  </br>
+
+  <br>
+    <center>
+      <img src="banner de promocion.GIf" height="350px" width="600px">
+    </center>
+  </br>
+</body>
+</html> 
